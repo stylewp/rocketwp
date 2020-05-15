@@ -1,0 +1,19 @@
+// Theme Default predefined styles
+
+
+// Skip to content link
+a.skip-link {
+	position: fixed;
+	z-index: 1000;
+	top: 0px;
+	right: 0px;
+}
+
+.site-content {
+  word-break: break-word;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}

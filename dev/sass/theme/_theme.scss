@@ -1,0 +1,31 @@
+/*
+* Theme Styles Import 
+*/
+
+
+//Blocks - Gutenberg
+@import "blocks/blocks";
+ 
+// Theme Base Styles 
+@import './theme/wpcore';
+@import './theme/forms'; 
+  
+// Theme Style
+@import './theme/theme-base';
+@import './theme/menu';
+@import './theme/homepage';
+@import './theme/blog';
+@import './theme/posts';
+@import './theme/posts-and-pages';
+@import './theme/pages';
+@import './theme/widgets';
+@import './theme/navigation';
+@import './theme/pagination';
+@import './theme/comments';
+@import './theme/wpcore';
+@import './theme/forms';
+@import './theme/media-queries';
+ 
+// Plugin Support
+//@import './theme/contact-form7';
+//@import './theme/woocommerce';

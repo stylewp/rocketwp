@@ -1,0 +1,26 @@
+/*!
+Theme Name: Rocketwp
+Theme URI: rocketwp.net
+Author: Bojan Zlatanovic
+Author URI: rocketwp.net
+Description: A blank starter theme for WordPress using WPGulp, Underscores, Bootstrap 4 and Font Awesome.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: rocketwp
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+*/
+
+/*--------------------------------------------------------------
+# Bootstrap
+--------------------------------------------------------------*/
+@import 'bootstrap';
+
+/*--------------------------------------------------------------
+# Theme Styles and Layout
+--------------------------------------------------------------*/
+@import "theme/theme";
+/*--------------------------------------------------------------
+# Variables
+--------------------------------------------------------------*/
+@import "vars/theme-vars"; 
